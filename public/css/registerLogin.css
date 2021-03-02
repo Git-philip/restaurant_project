@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.form{
+    width: 30%;
+    height: auto;
+    /* margin: 7rem auto; */
+}
+.form-group{
+    padding-top: 7px;
+}
